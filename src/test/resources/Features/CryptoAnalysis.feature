@@ -17,5 +17,3 @@ Feature: Test coinmarketcap cryptocurrency trading features
     And Open the Watchlist in different tab
     Then Verify the all five currencies selected are added into watchlist
 
-
-    Scenario:
