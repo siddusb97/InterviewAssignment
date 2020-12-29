@@ -1,5 +1,5 @@
 #Pre-requisites
-Java 1.6 and above
+Java 1.6 and above,
 Maven 
 
 #Steps to run 
